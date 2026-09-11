@@ -1,3 +1,4 @@
 pwd: Muesta la ruta completa del directorio
 cd: Permite cambiar de directorios
 ls: Lista todos los archivos o folder del directorio
+mkdir: Crea un directorio nuevo
